@@ -9,7 +9,7 @@
 		<relativePath/>
 	</parent>
 	
-	<groupId>com.unutmaz</groupId>
+	<groupId>projetointegrador</groupId>
 	<artifactId>movie-collection</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>movie-collection</name>
